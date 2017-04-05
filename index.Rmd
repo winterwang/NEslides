@@ -10,17 +10,19 @@ widgets     : [quiz, bootstrap]           # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 assets      : {assets: ../../assets}
+license     : by-nc-sa
 ---
 
 ---
-# 本日の内容
+## 本日の内容
 
-### 病気と食事・栄養素
-- 欠乏症
-- 生活習慣病
+>-  病気と食事・栄養素
+    - 欠乏症
+    - 生活習慣病
 
-
-
+>-  食事調査と栄養疫学研究
+    - 日本人の食事摂取基準
+    - 国民健康・栄養調査
 
 --- &radio
 
